@@ -63,7 +63,7 @@ try:
 
 except:
 	print("[!] Issue with Target URL")
-	print("[!] Usage: ./brute-force.py https://target-url")
+	print(f"[!] Usage: ./brute-force.py :{targetURL}")
 	print("[!] CHECK YOUR URL!")
 
 

@@ -1,7 +1,7 @@
 #author Arkaaap Date 26'th of july 2025 
 #Pow : Bruteforce webapplication 
-
-#!/usr/bin/env python3
+#For linux folks :) 
+#!/usr/bin/env python3  
 
 # importing the sys module so that we can
 # use command line arguments for targetURL
